@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Wishlist.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+<img src='WishList.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
 
 <!-- Tools -->
 GIF created with ...  ScanToGif
