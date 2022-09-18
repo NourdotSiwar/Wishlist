@@ -33,6 +33,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with ...  ScanToGif
 
 ## Notes
+Challenges: 
 
 * Linking UI to backend, aka finding a way to involve TextViews with adding to the list. 
 * Isses with letting the RecylcerView Item get clicked 
